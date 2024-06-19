@@ -1,3 +1,3 @@
 # odin-recipes
-A small html project to apply learned techniques.
-ASDASD
+A small html project to apply learned techniques,
+such as lists, links and images.
